@@ -1,0 +1,68 @@
+{
+	"storyName": "AMOGUS SUS SOS OTSOS",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Fondness",
+			"speedz",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Lovestruck",
+			"tsu",
+			[
+				155,
+				155,
+				155
+			]
+		],
+		[
+			"Heartbeat",
+			"biddle",
+			[
+				241,
+				241,
+				119
+			]
+		],
+		[
+			"Bliss",
+			"draz",
+			[
+				74,
+				74,
+				69
+			]
+		],
+		[
+			"Infatuated",
+			"syke",
+			[
+				80,
+				117,
+				159
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
