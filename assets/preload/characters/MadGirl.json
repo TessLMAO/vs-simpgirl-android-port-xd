@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				182,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SimpGirl Left"
+		},
+		{
+			"offsets": [
+				38,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SimpGirl Down"
+		},
+		{
+			"offsets": [
+				-35,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SimpGirl Up"
+		},
+		{
+			"offsets": [
+				-170,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SimpGirl Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SimpGirl Idle"
+		},
+		{
+			"offsets": [
+				40,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hey",
+			"indices": [],
+			"name": "SimpGirl HEY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadGirl",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "madgirl",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-100,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				225,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SimpGirl Left"
+		},
+		{
+			"offsets": [
+				82,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SimpGirl Down"
+		},
+		{
+			"offsets": [
+				10,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SimpGirl Up"
+		},
+		{
+			"offsets": [
+				0,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SimpGirl Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SimpGirl Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SimpGirlGlow",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		115,
+		170
+	],
+	"camera_position": [
+		-100,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
